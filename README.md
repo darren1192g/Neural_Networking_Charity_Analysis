@@ -23,4 +23,4 @@
 
 ## Summary
  -  We were able to get the accuracy to 72%. This needs to be high to make it more useful. As of right now we could miss companies that could really use the funding but due to a 28% of inaccuracy with thew model
-![image](https://user-images.githubusercontent.com/110645195/212763214-cb7732cb-decb-4cb5-94c8-e424ab80164e.png)
+
